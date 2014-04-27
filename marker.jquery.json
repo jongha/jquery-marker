@@ -1,7 +1,7 @@
 {
     "name": "marker",
     "title": "jQuery Marker plugin",
-    "description": "",
+    "description": "Highlighters(or markers) used to highlight and cover over existing writing while still leaving the writing readable. This jQuery plugin supports the highlighting of certain parts of the web page. This is Minimum viable product (MVP) project. But this has a great deal of potential. I'm sure this plugin helps develop your web pages soon.",
     "version": "1.0.1",
     "author": {
         "name": "Jong-Ha Ahn",
