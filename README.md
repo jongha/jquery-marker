@@ -2,6 +2,10 @@
 
 Highlighters(or markers) used to highlight and cover over existing writing while still leaving the writing readable. This jQuery plugin supports the highlighting of certain parts of the web page. This is Minimum viable product (MVP) project. But this has a great deal of potential. I'm sure this plugin helps develop your web pages soon. Your contribution is always welcome. Thanks.
 
+## Screenshot
+
+![Screenshot](https://raw.github.com/jongha/jquery-marker/master/demo/screenshot.png)
+
 ## Description
 
 ```
