@@ -39,7 +39,7 @@ Or
 $("#marker-id").marker({ color: 'peachpuff' });
 ```
 
-# License
+## License
 
 jquery-marker is available under the terms of the MIT License.
 
